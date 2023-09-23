@@ -1,0 +1,19 @@
+{
+  "name": "examenparcial_jeremy",
+  "version": "1.0.0",
+  "description": "ExamenParcial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremyMiller177/ExamenParcial_Jeremy.git"
+  },
+  "author": "Jeremy Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeremyMiller177/ExamenParcial_Jeremy/issues"
+  },
+  "homepage": "https://github.com/JeremyMiller177/ExamenParcial_Jeremy#readme"
+}
